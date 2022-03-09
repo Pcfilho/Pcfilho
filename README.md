@@ -1,7 +1,7 @@
 ## Hello there, my name is Paulo César and I am an Software Developer from Brazil. 
 
 👨‍💻 I'm studying to become a Fullstack dev and is a big pleasure to always learn more<br>
-💻 Currently I'm studying at the college from Fortaleza, CE "UNIFOR".
+💻 Currently I'm studying at the Universidade de Fortaleza, CE ( UNIFOR ).
 
  <div>
   <a href="https://github.com/Pcfilho">
