@@ -1,4 +1,4 @@
-## Hello there, my name is Paulo César and I am an Software Developer from Brazil. 
+## 🐱‍👤 Hello there, my name is Paulo César.
 
 👨‍💻 I'm studying to become a Fullstack dev and is a big pleasure to always learn more<br>
 💻 Currently I'm studying at the Universidade de Fortaleza, CE ( UNIFOR ).
