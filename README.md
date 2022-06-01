@@ -1,7 +1,7 @@
 ## 👁 Hello there, my name is Paulo César.
 
 👨‍💻 I'm studying to become a Fullstack dev and is a big pleasure to always learn more<br>
-💻 Currently I'm studying at the Universidade de Fortaleza, CE ( UNIFOR ).
+💻 Currently I'm studying at the Universidade de Fortaleza, CE ( UNIFOR ). <br>
 🔁 Currently working as a trainee in mobile development with Kotlin.
 
  <div>
