@@ -2,7 +2,8 @@
 
 👨‍💻 I'm studying to become a Fullstack dev and is a big pleasure to always learn more<br>
 💻 Currently I'm studying at the Universidade de Fortaleza, CE ( UNIFOR ). <br>
-🔁 Currently working as a trainee in mobile development with Kotlin.
+🔁 Currently working as a trainee in mobile development with Kotlin. <br>
+🆕 Starting studies and projects with React Native.
 
  <div>
   <a href="https://github.com/Pcfilho">
