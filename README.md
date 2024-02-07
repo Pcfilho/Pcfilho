@@ -1,9 +1,8 @@
-## 👋 Hello there, my name is Paulo César.
+## 👋 Hello there, I'm Paulo César.
 
-👨‍💻 I'm studying to become a Fullstack dev and is a big pleasure to always learn more!<br>
-💻 Currently I'm studying at the Universidade de Fortaleza, CE ( UNIFOR ). <br>
-🔁 Currently working with Kotlin And React Native. <br>
-
+👨‍💻 Constantly working and improving as a mobile developer, striving to become a Fullstack developer and always eager to expand my knowledge!<br>
+💻 Currently near completion of my Bachelor's degree in Computer Science at Universidade de Fortaleza, CE (UNIFOR).  <br>
+🔁 Currently working with React Native and Expo! <br>
 
 
  <div>
