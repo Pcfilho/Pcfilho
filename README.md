@@ -1,7 +1,7 @@
 ## 👋 Hello there, I'm Paulo César
 
 ### About Me
-- 👨‍💻 Passionate about mobile development, constantly improving and aspiring to become a Fullstack developer.
+- 👨‍💻 Passionate about mobile development, constantly improving.
 - 🎓 Bachelor's degree in Computer Science at Universidade de Fortaleza, CE (UNIFOR).
 - 🔁 Currently working with React Native and Expo!
 
