@@ -1,4 +1,4 @@
-## 👋 Hello there, I'm Paulo César
+## 👋 Hello there, I'm Paulo César Barroso
 
 ### About Me
 - 👨‍💻 Passionate about mobile development, constantly improving.
