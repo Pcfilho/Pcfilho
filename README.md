@@ -2,7 +2,7 @@
 
 ### About Me
 - 👨‍💻 Passionate about mobile development, constantly improving and aspiring to become a Fullstack developer.
-- 🎓 Nearing completion of my Bachelor's degree in Computer Science at Universidade de Fortaleza, CE (UNIFOR).
+- 🎓 Bachelor's degree in Computer Science at Universidade de Fortaleza, CE (UNIFOR).
 - 🔁 Currently working with React Native and Expo!
 
 ### GitHub Stats
