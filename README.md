@@ -5,14 +5,6 @@
 - 🎓 Bachelor's degree in Computer Science at Universidade de Fortaleza, CE (UNIFOR).
 - 🔁 Currently working with React Native and Expo!
 
-### GitHub Stats
-<div>
-  <a href="https://github.com/Pcfilho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pcfilho&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcfilho&layout=compact&langs_count=7&theme=blueberry"/>
-  </a>
-</div>
-
 ### Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
