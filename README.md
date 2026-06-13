@@ -6,10 +6,6 @@
   <a href="mailto:paulo.dev.85@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Senior%20RN%20%2F%20Mobile%20roles-Remote%2C%20USD%2FEUR-2ea44f?style=for-the-badge" alt="Open to work" />
-</p>
-
 ---
 
 ### 👨‍💻 About me
