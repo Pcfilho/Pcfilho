@@ -51,6 +51,8 @@ React Native engineer from Fortaleza, Brazil, with 5+ years building production 
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20%2F%20NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Reanimated](https://img.shields.io/badge/Reanimated-001A72?style=flat-square&logo=react&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 **Testing & CI/CD**
 
@@ -58,6 +60,8 @@ React Native engineer from Fortaleza, Brazil, with 5+ years building production 
 ![Maestro](https://img.shields.io/badge/Maestro%20E2E-7C4DFF?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![EAS](https://img.shields.io/badge/EAS%20Build%20%2F%20Update-000020?style=flat-square&logo=expo&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=bitrise&logoColor=white)
+![CodePush](https://img.shields.io/badge/CodePush%20(OTA)-489D35?style=flat-square)
 
 **Backend (lite, growing)**
 
@@ -68,6 +72,16 @@ React Native engineer from Fortaleza, Brazil, with 5+ years building production 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
+
+**Monitoring & Tooling**
+
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-0055FF?style=flat-square&logo=amplitude&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F2545B?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ---
 
