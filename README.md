@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Paulo Barroso</h1>
-<h3 align="center">Senior React Native Engineer with 5+ years shipping production mobile apps</h3>
+<h3 align="center">Senior React Native Engineer with <!--yoe-->6<!--/yoe-->+ years shipping production mobile apps</h3>
 
 <p align="center">
+  <a href="https://pcfilho.github.io/"><img src="https://img.shields.io/badge/Portfolio-pcfilho.github.io-111111?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/paulo-cesar-barroso/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:paulo.dev.85@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<p align="center">🔗 <b><a href="https://pcfilho.github.io/">See the interactive portfolio →</a></b> · a fully playable iPhone mockup, EN/PT</p>
 
 ---
 
 ### 👨‍💻 About me
 
-React Native engineer from Fortaleza, Brazil, with 5+ years building production mobile apps across fintech, CRM, and IoT. I work mostly with React Native and TypeScript on top of the Expo and EAS ecosystem, and I'm comfortable going deep into offline-first architectures, native modules in Swift and Kotlin, E2E testing, and CI/CD.
+React Native engineer from Fortaleza, Brazil, with <!--yoe-->6<!--/yoe-->+ years building production mobile apps across fintech, CRM, health, and IoT. I work mostly with React Native and TypeScript on top of the Expo and EAS ecosystem, and I'm comfortable going deep into offline-first architectures, native modules in Swift and Kotlin, E2E testing, and CI/CD.
 
 - 🔭 React Native Engineer building production apps for US health-tech and fintech
 - 🚀 I like picking up the quality work other people put off (for example, I added Maestro E2E testing to a codebase that had needed it for years)
 - 📈 Recent impact: 90% fewer support tickets, 40% fewer regressions, 70% faster deployments
+- 📈 Plus 22% more app usage on the IoT farm-management product after a dashboard rebuild
 - 🤖 I learned to ship the hard way (yes, by reading the docs), so now I can let Claude Code carry the boring parts without losing the plot
 - 💼 Open to remote Senior React Native and Mobile Engineer roles (USD or EUR)
 - 🗣️ Portuguese (native), English (C1), Spanish (intermediate)
@@ -26,10 +30,10 @@ React Native engineer from Fortaleza, Brazil, with 5+ years building production 
 | App | Context | Stores |
 |---|---|---|
 | **Pluma Finance** (personal finance + Open Finance) | Freelance | [App Store](https://apps.apple.com/us/app/pluma-finance/id6759451648) |
-| **Daily Logs** (offline-first workout tracker) | Personal | App Store *(in review)* |
 | **Collective Health** (US health benefits) | Employer | [App Store](https://apps.apple.com/us/app/collective-health/id1032100065) / [Google Play](https://play.google.com/store/apps/details?id=com.collectivehealth.member) |
 | **Ploomes CRM** (sales CRM) | Employer | [App Store](https://apps.apple.com/us/app/ploomes/id1405137541) / [Google Play](https://play.google.com/store/apps/details?id=com.ploomes.mobileapp) |
 | **Agrolite Gestor** (farm management / IoT) | Employer | [App Store](https://apps.apple.com/us/app/agrolite-gestor/id1607414504) / [Google Play](https://play.google.com/store/apps/details?id=com.agrolitemanager) |
+| **Daily Logs** (offline-first workout tracker) | Personal | App Store *(in review)* |
 
 ---
 
@@ -43,6 +47,9 @@ React Native engineer from Fortaleza, Brazil, with 5+ years building production 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TurboModules](https://img.shields.io/badge/TurboModules-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Compiler](https://img.shields.io/badge/React%20Compiler-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 **State, Data & Styling**
 

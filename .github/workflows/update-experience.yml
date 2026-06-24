@@ -1,0 +1,44 @@
+name: Update years of experience
+
+# Keeps the "N+ years" copy in README.md in sync with the first role (June 2020),
+# so the number never goes stale. Mirrors the JS calc on the portfolio site.
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"   # 1st of every month, 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Recompute years since first role (June 2020)
+        run: |
+          node -e '
+            const fs = require("fs");
+            const now = new Date();
+            let n = now.getFullYear() - 2020;
+            if (now.getMonth() < 5) n--; // before June (months are 0-indexed)
+            const file = "README.md";
+            const before = fs.readFileSync(file, "utf8");
+            const after = before.replace(/<!--yoe-->[\s\S]*?<!--\/yoe-->/g, "<!--yoe-->" + n + "<!--/yoe-->");
+            fs.writeFileSync(file, after);
+            console.log("Years of experience set to " + n);
+          '
+
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update years of experience"
+            git push
+          else
+            echo "No change."
+          fi
