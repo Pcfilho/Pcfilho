@@ -33,7 +33,7 @@ React Native engineer from Fortaleza, Brazil, with <!--yoe-->6<!--/yoe-->+ years
 | **Collective Health** (US health benefits) | Employer | [App Store](https://apps.apple.com/us/app/collective-health/id1032100065) / [Google Play](https://play.google.com/store/apps/details?id=com.collectivehealth.member) |
 | **Ploomes CRM** (sales CRM) | Employer | [App Store](https://apps.apple.com/us/app/ploomes/id1405137541) / [Google Play](https://play.google.com/store/apps/details?id=com.ploomes.mobileapp) |
 | **Agrolite Gestor** (farm management / IoT) | Employer | [App Store](https://apps.apple.com/us/app/agrolite-gestor/id1607414504) / [Google Play](https://play.google.com/store/apps/details?id=com.agrolitemanager) |
-| **Daily Logs** (offline-first workout tracker) | Personal | App Store *(in review)* |
+| **Daily Logs** (offline-first workout tracker) | Personal — [source](https://github.com/Pcfilho/dailylogs) | [App Store](https://apps.apple.com/us/app/daily-logs-offline-workouts/id6757203084) |
 
 ---
 
