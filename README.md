@@ -92,13 +92,4 @@ React Native engineer from Fortaleza, Brazil, with <!--yoe-->6<!--/yoe-->+ years
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pcfilho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcfilho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
----
-
 <p align="center"><i>📍 Based in Fortaleza, Brazil. Remote-first, with near-full overlap with US Eastern Time.</i></p>
