@@ -70,7 +70,7 @@ React Native engineer from Fortaleza, Brazil, with <!--yoe-->6<!--/yoe-->+ years
 ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=bitrise&logoColor=white)
 ![CodePush](https://img.shields.io/badge/CodePush%20(OTA)-489D35?style=flat-square)
 
-**Backend (lite, growing)**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
